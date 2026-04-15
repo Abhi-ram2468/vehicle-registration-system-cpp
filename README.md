@@ -13,7 +13,7 @@ This project allows users to register vehicles, search for specific records, and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - C++
 - Standard Library (iostream, string)
 
